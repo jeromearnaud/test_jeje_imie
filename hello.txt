@@ -1,9 +1,1 @@
-<<<<<<< HEAD
 "Bonjour comment ça va ?" 
-
-c'est une erreur
-=======
-"Bonjour comment ca va ?" 
-
-j'ai fais une modif sur github
->>>>>>> 799d12f2b7aec79d023e05c671a92914aadf261c
